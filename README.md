@@ -1,38 +1,18 @@
-# Hey there! I'm Molish 👋
+# Hey, I'm Molish 👋
 
-I'm a mechanical engineer based in Chennai, interested in combining  
-**simulation, design and programming** to solve automotive and aerospace problems.
+Mechanical engineer interested in **CAE, CFD, composites, automotive and aerospace engineering**.
 
-I have worked on **Formula Student electric race cars**, **Wing-in-Ground aircraft**,  
-composite structures, CFD, FEA and Python-based engineering tools.
+I have worked on **Formula Student electric race cars**, **Wing-in-Ground aircraft** and Python-based engineering simulations.
 
 ---
 
-## Tools & Tech
+### Tools
 
-- **Programming:** Python, NumPy, SciPy, Pandas, Matplotlib, Tkinter
-- **Simulation:** ANSYS Mechanical, ANSYS Fluent, OpenFOAM, STAR-CCM+
-- **Design:** SolidWorks, Fusion 360
-- **Engineering:** CFD, FEA, composites, aerodynamics, vehicle dynamics
+`Python` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib`  
+`ANSYS` · `OpenFOAM` · `SolidWorks` · `STAR-CCM+`
 
 ---
 
-## What I'm Building
-
-- 🏁 F1 Post-Race Strategy Analyser
-- 🚗 Quarter-Car Suspension Simulator
-- 📐 Shear Force and Bending Moment Calculator
-- 🌬️ CFD and CAE automation tools
-
----
-
-## A Bit About Me
-
-- 🏎️ Former Head of Aerodynamics & Composites at Team Ojas Racing
-- 🇩🇪 Represented India at Formula Student Germany 2024
-- 🛩️ Worked on lightweight Wing-in-Ground aircraft prototypes
-- 🔧 I enjoy building practical and visual engineering projects
-
----
+Currently building engineering simulation and automation projects.
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
