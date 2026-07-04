@@ -2,4 +2,4 @@
 
 MechE | Motorsport and Aerospace design
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](linkedin.com/in/molish-panneerselvam-22360721a) · [Email](pmolish@gmail.com)
